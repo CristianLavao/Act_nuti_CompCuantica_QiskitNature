@@ -22,6 +22,9 @@
 # Extracción de resultados: 
 ## una vez que se encuentra la energía mínima, Qiskit Nature proporciona herramientas para extraer información adicional sobre el sistema, como la estructura electrónica, las longitudes de enlace y los ángulos de enlace.
 
+# Realizado por:
+- Cristian Camilo Lavao Buritica
+
 
 
 
